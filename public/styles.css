@@ -1,0 +1,7 @@
+.MuiToolbar-root{
+  justify-content: space-between;
+}
+.logo{
+  text-decoration: none;
+  color: gray;
+}
